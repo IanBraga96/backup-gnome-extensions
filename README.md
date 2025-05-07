@@ -86,7 +86,7 @@ This extension adds an icon to your GNOME Shell top panel. Clicking on it shows 
 - For extensions that need manual installation, visit the URLs provided in the log file.
 - If you encounter permission issues, make sure both script files in the `scripts` directory are executable:
   ```bash
-  chmod +x ~/.local/share/gnome-shell/extensions/extensions-backup@yourusername.github.io/scripts/*.sh
+  chmod +x ~/.local/share/gnome-shell/extensions/backup-gnome-extensions@gnome-shell-extensions.ianbraga.github.com/scripts/*.sh
   ```
 
 ## Development
@@ -94,7 +94,7 @@ This extension adds an icon to your GNOME Shell top panel. Clicking on it shows 
 ### File Structure
 
 ```
-extensions-backup@yourusername.github.io/
+backup-gnome-extensions@gnome-shell-extensions.ianbraga.github.com/
 ├── extension.js           # Main extension code
 ├── metadata.json          # Extension metadata
 ├── icons/
