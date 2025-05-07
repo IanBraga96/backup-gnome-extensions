@@ -1,0 +1,8 @@
+{
+    "uuid": "backup-extensions@ian.braga",
+    "name": "Backup Extensions",
+    "description": "Backup installed extensions and their settings.",
+    "version": 1,
+    "shell-version": ["48"],
+    "settings-schema": "org.gnome.shell.extensions.backup-extensions"
+  }
