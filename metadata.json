@@ -1,8 +1,11 @@
 {
-    "uuid": "backup-extensions@ian.braga",
+    "uuid": "backup-gnome-extensions@gnome-shell-extensions.ianbraga.github.com",
+    "extension-id": "backup-extensions",
     "name": "Backup Extensions",
     "description": "Backup installed extensions and their settings.",
     "version": 1,
-    "shell-version": ["48"],
-    "settings-schema": "org.gnome.shell.extensions.backup-extensions"
+    "shell-version": ["48", "47", "46", "45"],
+    "original-authors": [ "contatoianbraga@gmail.com" ],
+    "settings-schema": "org.gnome.shell.extensions.backup-extensions",
+    "url": "https://github.com/IanBraga96/backup-gnome-extensions"
   }
